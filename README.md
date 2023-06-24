@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cavsteeek
 - 👀 I’m interested in Cyber Security and Back-end
-- 🌱 I work with Java, Python, C, PHP, JavaScript, SQL and C++
+- 🌱 I work with Java, SQL, Go
 - 💞️ I’m looking to collaborate with people who share same interest
 - 📫 How to reach me....E-mail: uzochukwuikemdinachi@gmail.com
 
